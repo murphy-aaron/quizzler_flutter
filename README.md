@@ -2,15 +2,11 @@
 
 True or False? You must decide.  A quiz app built as a part of The App Brewery's Flutter Course.
 
-## Getting Started
+## Topics covered in the creation of this project
+- Breaking our app into separate classes
+- _private and public modifiers
+- Lists in Dart
 
-This project is a starting point for a Flutter application.
+This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Project recreated from https://github.com/londonappbrewery/quizzler-flutter to update to most recent Flutter version.
