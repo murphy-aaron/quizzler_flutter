@@ -1,9 +1,9 @@
 # quizzler_flutter
 
-True or False? You must decide.  A quiz app built as a part of The App Brewery's Flutter Course.
+True or False? You must decide. A quiz app built as a part of The App Brewery's Flutter Course.
 
 ## Topics covered in the creation of this project
-- Breaking our app into separate classes
+- Breaking apart our app into separate classes
 - _private and public modifiers
 - Lists in Dart
 
